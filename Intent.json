@@ -1,0 +1,63 @@
+{"objective": [
+        {"type": "introduction",
+         "questions": ["Hi", "Hello", "Is any one there?", "Good morning", "Good evening", "Good afternoon", "hey", "Excuse me?", "Whats up?"],
+         "answers": ["Hey there, what do u want?", "Hi what can I do for u", "Hey buddy what do you need?"]
+        },
+        {"type": "name",
+          "questions": ["What's your name?", "May i know your name?", "name please", "What should i call you", "your name?", "Who are you?", "who the hell are you"],
+          "answers": ["My self Mr.Bot", "My name is Mr.Bot", "I am Mr.Bot"]
+        },
+        {"type": "sell",
+         "questions": ["What do you sell?", "What's your products?", "May i know the items that you sell?", "I want to buy some thing", "What do you have?", "Want to buy", "Want to purchase", "Any items", "products", "items", "What will you do?", "What are you supposed to do?", "may i know what are you for?", "What you do?"],
+         "answers": ["I sell Dairy Milk silk chocolates if you want to purchase please enter yes", "I supply Dairy Milk chocolates, if you want to purchase please enter yes"]
+        },
+        {"type": "yes",
+         "questions": ["Yes", "Yes I want", "Yes please", "Yes I do purchase"],
+         "answers": ["Thank u for entering yes, to purchase Roasted Almonds please enter 1, to purchase Fruit and Nuts enter 2, to purchase Bubbly enter 3, to purchase Oreo enter 4 and finally to purchase Normal silk enter 5"]
+        },
+        {"type": "roasted almonds",
+         "questions": ["1"],
+         "answers": ["Thank you for selecting Roasted Almonds, your order is confirmed."]
+        },
+        {"type": "fruits and nuts",
+         "questions": ["2"],
+         "answers": ["Thank you for selecting Fruit and Nuts, your order is confirmed"]
+        },
+        {"type": "bubbly",
+         "questions": ["3"],
+         "answers": ["Thank you for selecting Bubbly, your order is confirmed"]
+        },
+        {"type": "oreo",
+         "questions": ["4"],
+         "answers": ["Thank you for selecting Oreo, your order is confirmed"]
+        },
+        {"type": "normal silk",
+         "questions": ["5"],
+         "answers": ["Thank you for selecting Normal Silk, your order is confirmed"]
+        },
+        {"type": "interest",
+          "questions": ["not interested", "sorry no interest", "No", "No interest", "No need"],
+          "answers": ["Ok ok I think you are not a chocolate lover if you have some time please visit our website to know about our company and products."]
+        },
+        {"type": "timings",
+         "questions": ["What hours are you open?", "What are your hours?", "When are you open?", "Timings please", "Working hours", "working time", "time", "hours"],
+         "answers": ["I am open 24/7", "my timings is 24/7"]
+        },
+        {"type": "thanks",
+         "questions": ["Thanks", "Thank you", "That's helpful", "Tq", "may thanks", "That's great", "great"],
+         "answers": ["Happy to help!", "Any time!", "My pleasure"]
+        },
+        {"type": "ending",
+         "questions": ["See you again", "Bye", "Goodbye", "See you later", "Okay bye"],
+         "answers": ["See you later, thanks for visiting", "Have a nice day", "Bye! Come back again soon."]
+        },
+        {"type": "ok",
+          "questions": ["ok", "okay", "ok ok"],
+          "answers": ["ok", "okay"]
+        },
+        {"type": "queries",
+         "questions": ["not understood", "didn't understand", "I don't understand", "I need help", "Could you please help me?", "I am facing issues", "I have some queries to ask", " I have a problem", "issues", "need help", "help me", "problems", "queries", "Have some questions", "Have questions", "Have doubts", "I have some doubts"],
+         "answers": ["If you have any problems/any queries please feel free to call our toll free number 05-05050-50505 "]
+        }
+      ]
+}
